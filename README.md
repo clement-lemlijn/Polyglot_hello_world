@@ -16,7 +16,7 @@ Toutes les tâches, le suivi de l'avancement et la roadmap globale sont centrali
 Chaque langage sera isolé dans son propre dossier (ex: /python).
 
 ### Langages Scriptés
-* [ ] **Python** - `hello-world-python`
+* [x] **Python** - `hello-world-python`
 * [ ] **JavaScript** (Node.js) - `hello-world-javascript`
 * [ ] **PHP** - `hello-world-php`
 * [ ] **Ruby** - `hello-world-ruby`
